@@ -9,10 +9,10 @@
 
 
 ## Skills:
-- 📃 Certifications: CompTIA A+, Security+, Network+, Project+, CySA+
+- 📃 Certifications: CompTIA A+, Security+, Network+, Project+, CySA+, Pentest+
 - 🧑‍💻 Languages: Python, SQL
 
 ## Key Projects:
-- Log Analysis with SIEM from TryHackMe (In Progress)
+- Log Analysis with SIEM from TryHackMe
 - Metasploit for Beginners: Ethical Penetration Testing (In Progress)
 - Vulnerability Scanning with Nmap: Network Scanning (In Progress)
